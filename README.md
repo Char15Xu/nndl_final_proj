@@ -10,4 +10,4 @@ There are two implementations for our project:
 
 
 ### 2. ConvNeXT + CLIP implementation -- Charles Xu
-Please move the dataset folder to your Google Drive and run the notebook cells in order to reproduce all results.
+Please move the dataset folder to your Google Drive and run all cells in `convnext_clip.ipynb` to reproduce the results.
