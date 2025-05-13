@@ -16,6 +16,8 @@ pip install torch torchvision pandas tqdm ftfy regex sentencepiece clip
 
 ## Usage Instructions
 
+Please remember to put the dataset files in our Google Drive link into the same directory as the python files in this GitHub repository.
+
 ### 1. Split-Based Experiments
 
 ```bash
